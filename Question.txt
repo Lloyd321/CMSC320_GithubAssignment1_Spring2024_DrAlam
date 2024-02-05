@@ -1,0 +1,2 @@
+Question: "Why are you interested in taking CMSC320?"
+Answer: Becasue Data Science is one of the most expnading fields in the tech industry, I am taking this class to expand my knowledge in data science and be equipt with the necessary skills to perform well in any data science role.
